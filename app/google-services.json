@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "389863696436",
+    "firebase_url": "https://bikesforrent-569f5.firebaseio.com",
+    "project_id": "bikesforrent-569f5",
+    "storage_bucket": "bikesforrent-569f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389863696436:android:0bbf6e38f3cef271",
+        "android_client_info": {
+          "package_name": "com.jaswan26.bikesforrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389863696436-1akucvcfm3tq9kmppj06rcgfv4lrpo50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaswan26.bikesforrent",
+            "certificate_hash": "b6eda9dc717e99aca66b9cc32b366194b89e654d"
+          }
+        },
+        {
+          "client_id": "389863696436-3t7a8e0dq0uuqgpoi2o3ci1hq8qa2q0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeK59aTqwMAGEB1fDjTgM8MAH7f_usHQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389863696436-3t7a8e0dq0uuqgpoi2o3ci1hq8qa2q0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

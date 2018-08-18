@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/yellowish_bg"
+    >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/start_login_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="38dp"
+        android:text="Bikes For Rent"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="11dp"
+        android:text="Welcome To Our App"
+        android:textColor="@color/colorPrimary"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/start_reg_button"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="65dp"
+        android:background="@android:color/white"
+        android:text="Need A New Account"
+        android:textColor="@color/colorPrimary" />
+
+    <Button
+        android:id="@+id/start_login_btn"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="17dp"
+        android:background="@color/colorAccent"
+        android:text="Already Have Account"
+        android:textColor="@android:color/white"
+        android:layout_above="@+id/start_reg_button"
+        android:layout_alignStart="@+id/start_reg_button" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="286dp"
+        android:layout_height="154dp"
+        android:layout_above="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        app:srcCompat="@drawable/motor" />
+</RelativeLayout>

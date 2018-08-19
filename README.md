@@ -1,5 +1,5 @@
 # BikesForRent
-##////////// Do Suggest the  Better name  for this Project///////////////
+////////// Do Suggest the  Better name  for this Project///////////////
 
 ![ic_launcher](https://user-images.githubusercontent.com/24359494/44312428-8c4e2480-a415-11e8-821c-68b3d55ef927.png)
 

@@ -11,4 +11,7 @@
 4. Tihs application uses Firebase for backend and authentication a fascinating service provided by the Google sub branch.
 5. This app uses your Internet Connection,your GPS for location, Storage.
 6. You can do payment at last.
-6. This project is still in development. You can suggest some features
+7. This project is still in development. You can suggest some features
+8. Android Studio 3.1 is used for ddeveloping this application
+9. Minor project work for the academics
+10. 

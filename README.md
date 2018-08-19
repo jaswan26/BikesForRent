@@ -1,6 +1,8 @@
 # BikesForRent
 ##////////// Do Suggest the  Better name  for this Project///////////////
 
+![ic_launcher](https://user-images.githubusercontent.com/24359494/44312428-8c4e2480-a415-11e8-821c-68b3d55ef927.png)
+
 
 1. This is an android based application where you can rent a bike for short duration and you can also earn by giving your bike 
     to others an charge accordingly.

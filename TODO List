@@ -1,0 +1,28 @@
+1. Design Prototype for the applciation
+  1.1 Data Flow Diagram
+  1.2 UI wireframe designing
+2. Design icon for the application
+3. Case study for the implementaion details
+4. Create the basic structure for the apllication
+5. Connecting applicatoin with firebase
+6. Create Splash Screen
+7. Authentication using email and password
+8. Authentication using google or facebook
+9. Creating some layout for other activities
+10. storing the data to firebase storage or realtime database
+11. Accessing the data from the database
+12. Showing the user current location into map
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+...Connecting application with map service
+...Payment option Addition
+...signout
+...

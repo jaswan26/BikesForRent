@@ -1,5 +1,5 @@
 # BikesForRent
-////////// Do Suggest the  Better name  for this Project///////////////
+##////////// Do Suggest the  Better name  for this Project///////////////
 
 
 1. This is an android based application where you can rent a bike for short duration and you can also earn by giving your bike 
@@ -15,4 +15,3 @@
 8. Android Studio 3.1 is used for ddeveloping this application
 9. Minor project work for the academics
 10. 
-![motor](https://user-images.githubusercontent.com/24359494/44312378-86a40f00-a414-11e8-9e36-42c38aaa0e54.png)

@@ -15,3 +15,4 @@
 8. Android Studio 3.1 is used for ddeveloping this application
 9. Minor project work for the academics
 10. 
+![motor](https://user-images.githubusercontent.com/24359494/44312378-86a40f00-a414-11e8-9e36-42c38aaa0e54.png)
